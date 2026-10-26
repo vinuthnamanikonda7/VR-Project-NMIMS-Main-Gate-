@@ -10,6 +10,7 @@
 /[Ee]xported[Oo]bj/
 /.utmp/
 /*BurstDebugInformation_DoNotShip/
+/*_BackUpThisFolder_ButDontShipItWithYourGame/
 
 *.apk
 *.aab
